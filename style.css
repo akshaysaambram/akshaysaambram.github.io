@@ -1,0 +1,12 @@
+body {
+    position: relative;
+}
+
+.rounded-top-left {
+    border-radius: 25px 0 0 0;
+    overflow: hidden;
+}
+
+textarea {
+    resize: none;
+}
